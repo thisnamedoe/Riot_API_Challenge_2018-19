@@ -1,0 +1,9 @@
+.myblue {
+    background-color:rgb(154, 205, 255);
+    text-align: center;
+    display: block;
+}
+
+body {
+    background-color:black;
+}
