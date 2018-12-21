@@ -3,7 +3,17 @@
     text-align: center;
     display: block;
 }
+.navBarColour {
+    background-color:rgb(107, 226, 241);
+    font-family: 'Baloo Bhaijaan', cursive;
+}
 
 body {
-    background-color:black;
+    background-color:rgb(240, 236, 206);
 }
+img.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
